@@ -1,4 +1,6 @@
-# Cv4
+# MPZZ
+
+## Cv4
 
 * Uzavreno -> Grupoid (A, O) O: AxA->A
 * \+ Asociativni (nezalezi na zavorkach) -> Pologrupa
@@ -58,6 +60,8 @@ q=
 | b              | (/) | (/) | (/) | (X) | (X) | j=a  | (/) | A.g.                 |
 | c              | (/) | (/) | (/) | (/) | n=a | j=c  | (X) | komutativni monoid   |
 | q              | (/) | (X) | (/) | (X) | (X) | j=a  | (/) | grupoid              |
+
+## Cv5
 
 Pr 5.1:
 
