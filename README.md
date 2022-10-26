@@ -152,3 +152,41 @@ ord(5) = 6 => ({1, 2, 4, 5, 7, 8}, *)
 ord(7) = 3 => ({1, 4, 7}, *)
 
 ord(8) = 2 => ({1, 8}, *)
+
+### Morfismy
+
+* epimorfismus: zobrazen ́ı h je surjektivn ́ı,
+* monomorfismus: zobrazen ́ı h je injektivn ́ı,
+* izomorfismus: zobrazen ́ı h je bijektivn ́ı,
+* endomorfismus: h je zobrazen ́ı z 𝐴 do 𝐴 (tj. 𝐴′ ⊆ 𝐴)
+* automorfismus: h je zobrazen ́ı z 𝐴 na 𝐴 (tj. 𝐴′ = 𝐴)
+
+Pr5.10:
+
+a)
+
+(Z, +) a ({0,1,2,3}, +4) a f(x)=2x mod 4
+
+2(x+y) mod4 = (2x mod4 + 2y mod4) mod4 (/) - homomorfismus
+
+b)
+
+(Z, +) a ({0,1,2,3}, +4) a f(x)=2x mod4 + 1
+
+0->1, 1->3, 2->1, 3->3
+
+2(x+y) mod4 + 1 =  = ((2x mod4 + 1) + (2y mod4 + 1)) mod4 (X)
+
+c)
+
+(Z6, +) a (Z6, +6) a f(x)=2x mod6
+
+0->0, 1->2, 2->4, 3->0, 4->2, 5->4, 6->0
+
+...
+
+Pr5.11:
+
+a) neni svaz
+
+b) je svaz
